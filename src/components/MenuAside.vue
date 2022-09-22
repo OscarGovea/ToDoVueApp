@@ -46,7 +46,7 @@
           <v-col class="pa-6">
             <v-tooltip top>
               <template v-slot:activator="{ on, attrs }">
-                <a href="https://github.com/OscarGovea/ToDoAppVue" target="_blank">
+                <a href="https://github.com/OscarGovea/ToDoVueApp" target="_blank">
                   <v-btn fab x-small dark v-bind="attrs" v-on="on"> 
                       <v-icon>mdi-github</v-icon>
                   </v-btn>
